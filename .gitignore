@@ -1,7 +1,7 @@
 # Adding config.py file.
 config.py
 
-# Adding additiona files.
+# Additional files to ignore
 API_practice.ipynb
 random_numbers.ipynb
 
